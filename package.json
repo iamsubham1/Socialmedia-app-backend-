@@ -1,0 +1,36 @@
+{
+  "name": "netteam-call-backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000e\u0000t\u0000t\u0000e\u0000a\u0000m\u0000-\u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkk3675/netteam-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkk3675/netteam-backend/issues"
+  },
+  "homepage": "https://github.com/dkk3675/netteam-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.0",
+    "multer": "^1.4.5-lts.1",
+    "node": "^20.2.0",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22",
+    "otp-generator": "^4.0.1",
+    "paypal-rest-sdk": "^1.8.1",
+    "socket.io": "^4.6.2",
+    "uuid": "^9.0.0"
+  }
+}
